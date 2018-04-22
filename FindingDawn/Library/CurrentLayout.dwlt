@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 80
+  controlID: 124
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 60
+  controlID: 82
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 61
+  controlID: 34
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -289,11 +289,11 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 289
-    y: 19
+    y: 92
     width: 676
     height: 341
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_MaximizeOnPlay: 1
+  m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
   m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -393,7 +393,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
   m_ExpandedScenes:
-  - Level3
+  - Level2
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -424,15 +424,15 @@ MonoBehaviour:
     width: 676
     height: 341
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_SceneLighting: 1
-  lastFramingTime: 1324.254650627906
+  m_SceneLighting: 0
+  lastFramingTime: 83450.54936357957
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -23.891418, y: 1.5093904, z: 30.44589}
+    m_Target: {x: 2.4832838, y: -2.4858003, z: -0.02627822}
     speed: 2
-    m_Value: {x: -23.891418, y: 1.5093904, z: 30.44589}
+    m_Value: {x: 2.4832838, y: -2.4858003, z: -0.02627822}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -460,9 +460,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 32.33109
+    m_Target: 21.208946
     speed: 2
-    m_Value: 32.33109
+    m_Value: 21.208946
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -614,17 +614,17 @@ MonoBehaviour:
     m_Folders:
     - Assets/_Scenes
   m_ViewMode: 1
-  m_StartGridSize: 64
+  m_StartGridSize: 46
   m_LastFolders:
   - Assets/_Scenes
-  m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Downloads\Game-Project-master\FindingDawn
+  m_LastFoldersGridSize: 46
+  m_LastProjectPath: C:\Users\Harshil\Desktop\Sem 6\COMP305 - Game\Project\Game---Project\FindingDawn
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1a290000
-    m_LastClickedID: 10522
-    m_ExpandedIDs: 000000009a270000142c0000c63700000e3e000000ca9a3bffffff7f
+    m_SelectedIDs: 1c290000
+    m_LastClickedID: 10524
+    m_ExpandedIDs: 000000009c270000d2290000762b0000182c0000d23700006e3f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -652,7 +652,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009a270000142c0000c63700000e3e0000
+    m_ExpandedIDs: 000000009c270000d2290000762b0000182c0000d23700006e3f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -679,8 +679,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000da4b0000fa2d00007e2d00009828000014290000a8270000b2280000142b00002477fcff5c2b00006436000014360000fc360000342f0000c8320000923200006a3c0000b83a000062350000ae32000082290000f8710000
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000da4b0000fa2d00007e2d00009828000014290000a8270000b2280000142b00002477fcff5c2b00006436000014360000fc360000342f0000c8320000923200006a3c0000b83a000062350000ae32000082290000f8710000a82f000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -705,7 +705,7 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
-    m_GridSize: 64
+    m_GridSize: 46
   m_DirectoriesAreaWidth: 157
 --- !u!114 &19
 MonoBehaviour:
@@ -729,10 +729,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 8
-    y: 632
-    width: 679
-    height: 378
+    x: 0
+    y: 454
+    width: 965
+    height: 252
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &20
 MonoBehaviour:
